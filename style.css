@@ -20,3 +20,9 @@
     border: 5px solid;
     margin-left: 25%;
 }
+body{
+    background-image: url ("https://popcat.click/twitter-card.jpg")
+    background-repeat: repeat;
+    background-size: 100% 100%;
+    
+}
